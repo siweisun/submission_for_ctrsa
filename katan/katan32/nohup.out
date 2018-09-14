@@ -1,0 +1,58 @@
+excuteCVC.sh: line 8: 28746 Terminated              stp cvc_$1_$2/${i}.cvc --cryptominisat --threads 2 > cvc_$1_$2/res/${i}.res
+excuteCVC.sh: line 8: 28747 Terminated              stp cvc_$1_$2/${i}.cvc --cryptominisat --threads 2 > cvc_$1_$2/res/${i}.res
+excuteCVC.sh: line 8: 28769 Terminated              stp cvc_$1_$2/${i}.cvc --cryptominisat --threads 2 > cvc_$1_$2/res/${i}.res
+excuteCVC.sh: line 8: 28767 Terminated              stp cvc_$1_$2/${i}.cvc --cryptominisat --threads 2 > cvc_$1_$2/res/${i}.res
+excuteCVC.sh: line 8: 28768 Terminated              stp cvc_$1_$2/${i}.cvc --cryptominisat --threads 2 > cvc_$1_$2/res/${i}.res
+excuteCVC.sh: line 8: 28770 Terminated              stp cvc_$1_$2/${i}.cvc --cryptominisat --threads 2 > cvc_$1_$2/res/${i}.res
+KATAN 48 
+ROUND 160
+total 20608
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 10:20 0.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 16:22 10.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 14:00 11.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 23 03:20 12.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 23 09:43 13.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 14:56 14.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 24 15:40 15.res
+-rw-r--r-- 1 limuzhou student      0 Jul 22 09:40 16.res
+-rw-r--r-- 1 limuzhou student      0 Jul 22 09:40 17.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 26 08:50 18.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:51 19.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:59 1.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:55 20.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:52 21.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 11:18 22.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:48 23.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 11:08 24.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:51 25.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:56 26.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 12:02 27.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:47 28.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 12:55 29.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:52 2.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 14:39 30.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 11:34 31.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 15:20 32.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 25 20:10 33.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 27 02:41 34.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 23 20:13 35.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 26 05:46 36.res
+-rw-r--r-- 1 limuzhou student      0 Jul 22 09:40 37.res
+-rw-r--r-- 1 limuzhou student      0 Jul 22 09:40 38.res
+-rw-r--r-- 1 limuzhou student      0 Jul 22 09:40 39.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:48 3.res
+-rw-r--r-- 1 limuzhou student      0 Jul 22 09:40 40.res
+-rw-r--r-- 1 limuzhou student      7 Jul 26 20:02 41.res
+-rw-r--r-- 1 limuzhou student      7 Jul 23 19:48 42.res
+-rw-r--r-- 1 limuzhou student      7 Jul 22 20:03 43.res
+-rw-r--r-- 1 limuzhou student      7 Jul 22 19:28 44.res
+-rw-r--r-- 1 limuzhou student      7 Jul 22 13:13 45.res
+-rw-r--r-- 1 limuzhou student      7 Jul 22 11:06 46.res
+-rw-r--r-- 1 limuzhou student      7 Jul 22 10:30 47.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 10:24 4.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 10:34 5.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 10:25 6.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 10:19 7.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 11:17 8.res
+-rw-r--r-- 1 limuzhou student 601019 Jul 22 09:52 9.res
+81731
